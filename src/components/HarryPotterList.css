@@ -1,0 +1,21 @@
+.characterImg {
+  width: 300px;
+  height: 300px;
+  padding: 25px 40px;
+  border-radius: 50%;
+}
+
+.characterName {
+    color: black;
+    font-family: 'Harry Potter', sans-serif;
+    font-size: x-large;
+    text-shadow: -1px -1px 0 #efbb14, -1px -1px 0 #efbb14, -1px -1px 0 #efbb14, -1px -1px 0 #efbb14;
+}
+
+.characterContainer {
+    display: flex;
+    align-content: center;
+    border: 3px solid #efbb14;
+    border-radius: 20px;
+    padding: 25px 40px;
+}
