@@ -20,7 +20,7 @@ font-family: 'Harry Potter', sans-serif;
 
 .Gryffindor {
   background-image: url(../components/images/Gryffindor.jpeg);
-  width: 100%;
+  width: 1480px;
 }
 .Slytherin {
   background-image: url(../components/images/Slytherin.jpeg);
